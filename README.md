@@ -160,8 +160,7 @@ challenges, achievements, skills developed, and conclusion.
 
 ## Acknowledgement
 
-I would like to express my gratitude to EduSkills Academy, my assigned
-mentor, IILM University, and everyone who supported me throughout the
+I would like to express my gratitude to EduSkills Academy, IILM University, and everyone who supported me throughout the
 internship program.
 
 ------------------------------------------------------------------------
